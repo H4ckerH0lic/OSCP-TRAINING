@@ -1,6 +1,4 @@
-Here’s a structured, terminal-style set of notes based on your input. Let me know if you'd like any adjustments!  
 
-```
 # Detection & Analysis Stage (Part 1)
 
 ## -> Overview
@@ -107,4 +105,4 @@ Here’s a structured, terminal-style set of notes based on your input. Let me k
 ---
 
 Let me know if you'd like to refine or expand on any sections! 😊
-```
+
